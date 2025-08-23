@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 40px;
+    color: #333;
+}
+
+h1, h2, h3 {
+    color: #2c3e50;
+}
+
+.metadata {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+.action-item {
+    background-color: #e8f4fd;
+    padding: 15px;
+    margin: 10px 0;
+    border-left: 4px solid #3498db;
+    border-radius: 3px;
+}
