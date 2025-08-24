@@ -161,7 +161,7 @@ class MeetingEffectivenessScorer:
                 score += 1.5
             elif len(key_points) >= 1:
                 score += 1.0
-            
+            #test
             # Decisions
             decisions = notes.get('decisions', [])
             if len(decisions) >= 1:
